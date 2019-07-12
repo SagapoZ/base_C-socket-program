@@ -1,15 +1,15 @@
-·þÎñÆ÷ËµÃ÷£º
-	1¡¢Í¨¹ýmake±àÒë£¬ÈçÓÐ¸Ä¶¯×ÔÐÐ¸Ä±ämakefileÎÄ¼þÄÚÈÝ
-	2¡¢src£ºÔ´Âë
-		 ins£ºÍ·ÎÄ¼þ
-		 bin£º¿ÉÖ´ÐÐÎÄ¼þ
-		 bmp£º½çÃæUI
-		 data£ºº½°àÐÅÏ¢
-		 usr£ºÓÃ»§ÐÅÏ¢
-		 administrators£º¹ÜÀíÔ±ÐÅÏ¢
+# æœåŠ¡å™¨è¯´æ˜Žï¼š
+	1. é€šè¿‡makeç¼–è¯‘ï¼Œå¦‚æœ‰æ”¹åŠ¨è‡ªè¡Œæ”¹å˜makefileæ–‡ä»¶å†…å®¹
+	2. srcï¼šæºç 
+		 - insï¼šå¤´æ–‡ä»¶
+		 - binï¼šå¯æ‰§è¡Œæ–‡ä»¶
+		 - bmpï¼šç•Œé¢UI
+		 - dataï¼šèˆªç­ä¿¡æ¯
+		 - usrï¼šç”¨æˆ·ä¿¡æ¯
+		 - administratorsï¼šç®¡ç†å‘˜ä¿¡æ¯
 
-	3¡¢¿ª·¢°åÔËÐÐÖ»Ðè½«bmp¡¢data¡¢usr¡¢administrators¡¢¿ÉÖ´ÐÐÎÄ¼þ·ÅÔÚÍ¬Ò»Ä¿Â¼ÏÂ¼´¿ÉÔËÐÐ    
+	3.å¼€å‘æ¿è¿è¡Œåªéœ€å°†bmpã€dataã€usrã€administratorsã€å¯æ‰§è¡Œæ–‡ä»¶æ”¾åœ¨åŒä¸€ç›®å½•ä¸‹å³å¯è¿è¡Œ    
      
-¿Í»§¶ËËµÃ÷£º
-	1¡¢Ô´ÂëÁ½¸ö.cÎÄ¼þ
-	2¡¢Ö»Ðè½«bmp×ÊÔ´ÎÄ¼þ·ÅÈë¿ª·¢°åÔÚÔËÐÐ¿ÉÖ´ÐÐÎÄ¼þ¼´¿É
+# å®¢æˆ·ç«¯è¯´æ˜Žï¼š
+	1.æºç ä¸¤ä¸ª.cæ–‡ä»¶
+	2.åªéœ€å°†bmpèµ„æºæ–‡ä»¶æ”¾å…¥å¼€å‘æ¿åœ¨è¿è¡Œå¯æ‰§è¡Œæ–‡ä»¶å³å¯
